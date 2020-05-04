@@ -1,8 +1,4 @@
-#!/usr/bin/python
-
-#This program will produce a sequence of DNA based upon the user's specifications.
-#The user will be able to see the sequence generated on the screen.
-
+#!/usr/bin/python3
 
 
 

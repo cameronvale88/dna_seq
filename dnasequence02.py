@@ -23,7 +23,7 @@ def bases():
   return num
 
 def break_l():
-  breakpoint = input("How many sequences wide would you like before I start a new line? ")
+  breakpoint = input("How many sequences wide would you like the output to be? ")
   return breakpoint
 
 def line():

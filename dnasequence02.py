@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 
+#Version 2 is a bit more refined that version 1 and will not store the results to a file.
 
 
 import random

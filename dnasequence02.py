@@ -9,10 +9,10 @@ import time
 
 def purpose():
     print("This program is designed to generate a random sequence of DNA based on your specifications.")
-    time.sleep(2)
+    time.sleep(3)
     print("")
-    print("You will be asked a series of questions that will determine the size of the sequence and")
-    time.sleep(2)
+    print("You will be asked a series of questions that will determine the configuration of the results of")
+    time.sleep(1)
     print("")
     print("the pattern it will be displayed.")
     print("")
@@ -79,7 +79,6 @@ while lines < value:
     print(s[n:p])
     if clear == (line_break2 - 1):
         os.system("clear")
-#        os.system("cls")
         clear=int(0)
     else:
         clear=clear+1

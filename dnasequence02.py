@@ -76,6 +76,7 @@ clear=int(0)
 
 
 while lines < value:
+    time.sleep(0.005)
     print(s[n:p])
     if clear == (line_break2 - 1):
         os.system("clear")
